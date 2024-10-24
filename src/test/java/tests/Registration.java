@@ -9,7 +9,7 @@ import pages.PageRegistrationUser;
 public class Registration extends BaseSettings {
     @Test
     @DisplayName("Проверка регистрации")
-    public void VerificationRegistration()  {
+    public void verificationRegistration()  {
         new PageRegistrationUser(driver)
                 .openRegistrationPage()
                 .inputUserName()

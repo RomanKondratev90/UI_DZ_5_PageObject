@@ -108,3 +108,13 @@
 2024-10-24 21:24:39 INFO  PageRegistrationUser: Выбор уровня языка - средний
 2024-10-24 21:24:39 INFO  PageRegistrationUser: Закрытие выпадающего списка с выбором уровня языка
 2024-10-24 21:24:39 INFO  PageRegistrationUser: Клик по кнопке 'Зарегистрироваться'
+2024-10-24 21:26:58 INFO  PageRegistrationUser: Переход по URL
+2024-10-24 21:26:59 INFO  PageRegistrationUser: Ввод имени
+2024-10-24 21:26:59 INFO  PageRegistrationUser: Ввод email
+2024-10-24 21:26:59 INFO  PageRegistrationUser: Ввод пароля
+2024-10-24 21:26:59 INFO  PageRegistrationUser: Ввод повторно пароля
+2024-10-24 21:26:59 INFO  PageRegistrationUser: Ввод даты рождения в календарь - 1990-05-30
+2024-10-24 21:26:59 INFO  PageRegistrationUser: Клик по выпадающему списку с уровнем языка
+2024-10-24 21:26:59 INFO  PageRegistrationUser: Выбор уровня языка - средний
+2024-10-24 21:26:59 INFO  PageRegistrationUser: Закрытие выпадающего списка с выбором уровня языка
+2024-10-24 21:26:59 INFO  PageRegistrationUser: Клик по кнопке 'Зарегистрироваться'

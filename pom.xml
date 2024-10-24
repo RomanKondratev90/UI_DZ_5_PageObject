@@ -23,11 +23,9 @@
         <!--Версии плагинов-->
         <compiler.version>3.13.0</compiler.version>
         <surefire.version>3.5.0</surefire.version>
-
     </properties>
 
     <dependencies>
-
         <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
@@ -69,8 +67,6 @@
             <artifactId>log4j-core</artifactId>
             <version>${log4j-core.version}</version>
         </dependency>
-
-
     </dependencies>
 
     <build>
@@ -100,5 +96,4 @@
             </plugin>
         </plugins>
     </build>
-
 </project>

@@ -14,7 +14,7 @@ public class Registration extends BaseSettings {
         PageRegistrationUser registrationPage = new PageRegistrationUser(driver)
                 .openRegistrationPage()
                 .inputUserData()
-                .inputDateOfBirth("30-05-1991")
+                .inputDateOfBirth("30-05-1990")
                 .selectLanguageLevel("Средний")
                 .clickRegisterButton();
         Assertions.assertEquals("Имя пользователя: Roman\nЭлектронная почта: Roman@mail.ru\nДата рождения: 1990-05-30\nУровень языка: intermediate", registrationPage.getOutputResult());

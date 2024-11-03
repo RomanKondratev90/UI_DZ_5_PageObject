@@ -148,3 +148,283 @@
 2024-10-26 17:56:43 INFO  PageRegistrationUser: Выбор уровня языка - средний
 2024-10-26 17:56:43 INFO  PageRegistrationUser: Закрытие выпадающего списка с выбором уровня языка
 2024-10-26 17:56:43 INFO  PageRegistrationUser: Клик по кнопке 'Зарегистрироваться'
+2024-10-30 20:45:50 INFO  PageRegistrationUser: Переход по URL
+2024-10-30 20:45:51 INFO  PageRegistrationUser: Ввод данных в поле: USERNAME
+2024-10-30 20:45:51 INFO  PageRegistrationUser: Ввод данных в поле: EMAIL
+2024-10-30 20:45:51 INFO  PageRegistrationUser: Ввод данных в поле: PASSWORD
+2024-10-30 20:45:51 INFO  PageRegistrationUser: Ввод данных в поле: CONFIRM_PASSWORD
+2024-10-30 20:45:51 INFO  PageRegistrationUser: Ввод даты рождения: 1990-05-30
+2024-10-30 20:45:51 INFO  PageRegistrationUser: Выбор уровня языка: Средний
+2024-10-30 20:45:51 INFO  PageRegistrationUser: Клик по кнопке 'Зарегистрироваться'
+2024-10-30 20:47:37 INFO  PageRegistrationUser: Переход по URL
+2024-10-30 20:47:37 INFO  PageRegistrationUser: Ввод данных в поле: USERNAME
+2024-10-30 20:47:37 INFO  PageRegistrationUser: Ввод данных в поле: EMAIL
+2024-10-30 20:47:37 INFO  PageRegistrationUser: Ввод данных в поле: PASSWORD
+2024-10-30 20:47:37 INFO  PageRegistrationUser: Ввод данных в поле: CONFIRM_PASSWORD
+2024-10-30 20:47:37 INFO  PageRegistrationUser: Ввод даты рождения: 1990-05-30
+2024-10-30 20:47:37 INFO  PageRegistrationUser: Выбор уровня языка: Средний
+2024-10-30 20:47:37 INFO  PageRegistrationUser: Клик по кнопке 'Зарегистрироваться'
+2024-10-31 22:02:11 INFO  PageRegistrationUser: Переход по URL
+2024-10-31 22:02:11 INFO  PageRegistrationUser: Ввод значения: Roman
+2024-10-31 22:02:11 INFO  PageRegistrationUser: Ввод значения: Roman@mail.ru
+2024-10-31 22:02:11 INFO  PageRegistrationUser: Ввод значения: 12345
+2024-10-31 22:02:11 INFO  PageRegistrationUser: Ввод значения: 12345
+2024-10-31 22:02:11 INFO  PageRegistrationUser: Ввод даты рождения: 1990-05-30
+2024-10-31 22:02:12 INFO  PageRegistrationUser: Выбор уровня языка: Средний
+2024-10-31 22:02:12 INFO  PageRegistrationUser: Клик по кнопке 'Зарегистрироваться'
+2024-10-31 22:04:20 INFO  PageRegistrationUser: Переход по URL
+2024-10-31 22:04:21 INFO  PageRegistrationUser: Ввод данных в поле: USERNAME
+2024-10-31 22:04:21 INFO  PageRegistrationUser: Ввод данных в поле: EMAIL
+2024-10-31 22:04:21 INFO  PageRegistrationUser: Ввод данных в поле: PASSWORD
+2024-10-31 22:04:21 INFO  PageRegistrationUser: Ввод данных в поле: CONFIRM_PASSWORD
+2024-10-31 22:04:21 INFO  PageRegistrationUser: Ввод даты рождения: 1990-05-30
+2024-10-31 22:04:21 INFO  PageRegistrationUser: Выбор уровня языка: Средний
+2024-10-31 22:04:21 INFO  PageRegistrationUser: Клик по кнопке 'Зарегистрироваться'
+2024-11-02 15:26:26 INFO  PageRegistrationUser: Переход по URL
+2024-11-02 15:26:27 INFO  PageRegistrationUser: Ввод данных в поле: USERNAME
+2024-11-02 15:26:27 INFO  PageRegistrationUser: Ввод данных в поле: EMAIL
+2024-11-02 15:26:27 INFO  PageRegistrationUser: Ввод данных в поле: PASSWORD
+2024-11-02 15:26:27 INFO  PageRegistrationUser: Ввод данных в поле: CONFIRM_PASSWORD
+2024-11-02 15:26:27 INFO  PageRegistrationUser: Ввод даты рождения: 1990-05-30
+2024-11-02 15:26:27 INFO  PageRegistrationUser: Выбор уровня языка: Средний
+2024-11-02 15:26:27 INFO  PageRegistrationUser: Клик по кнопке 'Зарегистрироваться'
+2024-11-03 07:36:07 INFO  PageRegistrationUser: Переход по URL
+2024-11-03 07:36:07 INFO  PageRegistrationUser: Ввод данных в поле: USERNAME
+2024-11-03 07:36:07 INFO  PageRegistrationUser: Ввод данных в поле: EMAIL
+2024-11-03 07:36:07 INFO  PageRegistrationUser: Ввод данных в поле: PASSWORD
+2024-11-03 07:36:07 INFO  PageRegistrationUser: Ввод данных в поле: CONFIRM_PASSWORD
+2024-11-03 07:36:07 INFO  PageRegistrationUser: Ввод даты рождения: 1990-05-30
+2024-11-03 07:36:07 INFO  PageRegistrationUser: Выбор уровня языка: Средний
+2024-11-03 07:36:08 INFO  PageRegistrationUser: Клик по кнопке 'Зарегистрироваться'
+2024-11-03 07:36:24 INFO  PageRegistrationUser: Переход по URL
+2024-11-03 07:36:24 INFO  PageRegistrationUser: Ввод данных в поле: USERNAME
+2024-11-03 07:36:24 INFO  PageRegistrationUser: Ввод данных в поле: EMAIL
+2024-11-03 07:36:24 INFO  PageRegistrationUser: Ввод данных в поле: PASSWORD
+2024-11-03 07:36:24 INFO  PageRegistrationUser: Ввод данных в поле: CONFIRM_PASSWORD
+2024-11-03 07:36:24 INFO  PageRegistrationUser: Ввод даты рождения: 1990-05-30
+2024-11-03 07:36:24 INFO  PageRegistrationUser: Выбор уровня языка: Средний
+2024-11-03 07:36:24 INFO  PageRegistrationUser: Клик по кнопке 'Зарегистрироваться'
+2024-11-03 07:47:57 INFO  PageRegistrationUser: Переход по URL
+2024-11-03 07:47:57 INFO  PageRegistrationUser: Ввод данных в поле: USERNAME
+2024-11-03 07:47:57 INFO  PageRegistrationUser: Ввод данных в поле: EMAIL
+2024-11-03 07:47:57 INFO  PageRegistrationUser: Ввод данных в поле: PASSWORD
+2024-11-03 07:47:57 INFO  PageRegistrationUser: Ввод данных в поле: CONFIRM_PASSWORD
+2024-11-03 07:47:57 INFO  PageRegistrationUser: Ввод даты рождения: 1990-06-30
+2024-11-03 07:47:57 INFO  PageRegistrationUser: Выбор уровня языка: Средний
+2024-11-03 07:47:58 INFO  PageRegistrationUser: Клик по кнопке 'Зарегистрироваться'
+2024-11-03 07:50:05 INFO  PageRegistrationUser: Переход по URL
+2024-11-03 07:50:05 INFO  PageRegistrationUser: Ввод данных в поле: USERNAME
+2024-11-03 07:50:05 INFO  PageRegistrationUser: Ввод данных в поле: EMAIL
+2024-11-03 07:50:05 INFO  PageRegistrationUser: Ввод данных в поле: PASSWORD
+2024-11-03 07:50:05 INFO  PageRegistrationUser: Ввод данных в поле: CONFIRM_PASSWORD
+2024-11-03 07:50:05 INFO  PageRegistrationUser: Ввод даты рождения: 1990-06-30
+2024-11-03 07:50:05 INFO  PageRegistrationUser: Выбор уровня языка: Средний
+2024-11-03 07:50:05 INFO  PageRegistrationUser: Клик по кнопке 'Зарегистрироваться'
+2024-11-03 07:50:06 INFO  PageRegistrationUser: Фактический результат: Имя пользователя: Roman
+Электронная почта: Roman@mail.ru
+Дата рождения: 1990-06-30
+Уровень языка: intermediate
+2024-11-03 07:50:06 INFO  PageRegistrationUser: Ожидаемый результат: Имя пользователя: Roman
+Электронная почта: Roman@mail.ru
+Дата рождения: 1990-06-30
+Уровень языка: Средний
+2024-11-03 08:02:10 INFO  PageRegistrationUser: Переход по URL
+2024-11-03 08:02:10 INFO  PageRegistrationUser: Ввод данных в поле: USERNAME
+2024-11-03 08:02:10 INFO  PageRegistrationUser: Ввод данных в поле: EMAIL
+2024-11-03 08:02:10 INFO  PageRegistrationUser: Ввод данных в поле: PASSWORD
+2024-11-03 08:02:10 INFO  PageRegistrationUser: Ввод данных в поле: CONFIRM_PASSWORD
+2024-11-03 08:02:10 INFO  PageRegistrationUser: Ввод даты рождения: 1990-06-30
+2024-11-03 08:02:10 INFO  PageRegistrationUser: Выбор уровня языка: Средний
+2024-11-03 08:02:10 INFO  PageRegistrationUser: Клик по кнопке 'Зарегистрироваться'
+2024-11-03 08:02:11 INFO  PageRegistrationUser: Фактический результат: Имя пользователя: Roman
+Электронная почта: Roman@mail.ru
+Дата рождения: 1990-06-30
+Уровень языка: intermediate
+2024-11-03 08:02:11 INFO  PageRegistrationUser: Ожидаемый результат: Имя пользователя: Roman
+Электронная почта: Roman@mail.ru
+Дата рождения: 1990-06-30
+Уровень языка: Средний
+2024-11-03 08:03:45 INFO  PageRegistrationUser: Переход по URL
+2024-11-03 08:03:45 INFO  PageRegistrationUser: Ввод данных в поле: USERNAME
+2024-11-03 08:03:45 INFO  PageRegistrationUser: Ввод данных в поле: EMAIL
+2024-11-03 08:03:45 INFO  PageRegistrationUser: Ввод данных в поле: PASSWORD
+2024-11-03 08:03:45 INFO  PageRegistrationUser: Ввод данных в поле: CONFIRM_PASSWORD
+2024-11-03 08:03:45 INFO  PageRegistrationUser: Ввод даты рождения: 1990-06-30
+2024-11-03 08:03:45 INFO  PageRegistrationUser: Выбор уровня языка: Средний
+2024-11-03 08:03:46 INFO  PageRegistrationUser: Клик по кнопке 'Зарегистрироваться'
+2024-11-03 08:07:51 INFO  PageRegistrationUser: Переход по URL
+2024-11-03 08:07:51 INFO  PageRegistrationUser: Ввод данных в поле: USERNAME
+2024-11-03 08:07:51 INFO  PageRegistrationUser: Ввод данных в поле: EMAIL
+2024-11-03 08:07:51 INFO  PageRegistrationUser: Ввод данных в поле: PASSWORD
+2024-11-03 08:07:51 INFO  PageRegistrationUser: Ввод данных в поле: CONFIRM_PASSWORD
+2024-11-03 08:07:51 INFO  PageRegistrationUser: Ввод даты рождения: 1990-05-30
+2024-11-03 08:07:51 INFO  PageRegistrationUser: Выбор уровня языка: Средний
+2024-11-03 08:07:51 INFO  PageRegistrationUser: Клик по кнопке 'Зарегистрироваться'
+2024-11-03 08:08:48 INFO  PageRegistrationUser: Переход по URL
+2024-11-03 08:08:48 INFO  PageRegistrationUser: Ввод данных в поле: USERNAME
+2024-11-03 08:08:48 INFO  PageRegistrationUser: Ввод данных в поле: EMAIL
+2024-11-03 08:08:48 INFO  PageRegistrationUser: Ввод данных в поле: PASSWORD
+2024-11-03 08:08:48 INFO  PageRegistrationUser: Ввод данных в поле: CONFIRM_PASSWORD
+2024-11-03 08:08:48 INFO  PageRegistrationUser: Ввод даты рождения: 1990-05-30
+2024-11-03 08:08:48 INFO  PageRegistrationUser: Выбор уровня языка: Средний
+2024-11-03 08:08:48 INFO  PageRegistrationUser: Клик по кнопке 'Зарегистрироваться'
+2024-11-03 08:09:15 INFO  PageRegistrationUser: Переход по URL
+2024-11-03 08:09:15 INFO  PageRegistrationUser: Ввод данных в поле: USERNAME
+2024-11-03 08:09:15 INFO  PageRegistrationUser: Ввод данных в поле: EMAIL
+2024-11-03 08:09:15 INFO  PageRegistrationUser: Ввод данных в поле: PASSWORD
+2024-11-03 08:09:15 INFO  PageRegistrationUser: Ввод данных в поле: CONFIRM_PASSWORD
+2024-11-03 08:09:15 INFO  PageRegistrationUser: Ввод даты рождения: 1990-05-30
+2024-11-03 08:09:15 INFO  PageRegistrationUser: Выбор уровня языка: intermediate
+2024-11-03 08:10:13 INFO  PageRegistrationUser: Переход по URL
+2024-11-03 08:10:13 INFO  PageRegistrationUser: Ввод данных в поле: USERNAME
+2024-11-03 08:10:14 INFO  PageRegistrationUser: Ввод данных в поле: EMAIL
+2024-11-03 08:10:14 INFO  PageRegistrationUser: Ввод данных в поле: PASSWORD
+2024-11-03 08:10:14 INFO  PageRegistrationUser: Ввод данных в поле: CONFIRM_PASSWORD
+2024-11-03 08:10:14 INFO  PageRegistrationUser: Ввод даты рождения: 1990-05-30
+2024-11-03 08:10:14 INFO  PageRegistrationUser: Выбор уровня языка: Средний
+2024-11-03 08:10:14 INFO  PageRegistrationUser: Клик по кнопке 'Зарегистрироваться'
+2024-11-03 08:12:35 INFO  PageRegistrationUser: Переход по URL
+2024-11-03 08:12:35 INFO  PageRegistrationUser: Ввод данных в поле: USERNAME
+2024-11-03 08:12:35 INFO  PageRegistrationUser: Ввод данных в поле: EMAIL
+2024-11-03 08:12:35 INFO  PageRegistrationUser: Ввод данных в поле: PASSWORD
+2024-11-03 08:12:35 INFO  PageRegistrationUser: Ввод данных в поле: CONFIRM_PASSWORD
+2024-11-03 08:12:35 INFO  PageRegistrationUser: Ввод даты рождения: 1990-05-30
+2024-11-03 08:12:35 INFO  PageRegistrationUser: Выбор уровня языка: Средний
+2024-11-03 08:12:35 INFO  PageRegistrationUser: Клик по кнопке 'Зарегистрироваться'
+2024-11-03 08:14:58 INFO  PageRegistrationUser: Переход по URL
+2024-11-03 08:14:58 INFO  PageRegistrationUser: Ввод данных в поле: USERNAME
+2024-11-03 08:14:58 INFO  PageRegistrationUser: Ввод данных в поле: EMAIL
+2024-11-03 08:14:58 INFO  PageRegistrationUser: Ввод данных в поле: PASSWORD
+2024-11-03 08:14:58 INFO  PageRegistrationUser: Ввод данных в поле: CONFIRM_PASSWORD
+2024-11-03 08:14:58 INFO  PageRegistrationUser: Ввод даты рождения: 1990-05-30
+2024-11-03 08:14:58 INFO  PageRegistrationUser: Выбор уровня языка: Средний
+2024-11-03 08:14:59 INFO  PageRegistrationUser: Клик по кнопке 'Зарегистрироваться'
+2024-11-03 08:28:14 INFO  PageRegistrationUser: Переход по URL
+2024-11-03 08:28:14 INFO  PageRegistrationUser: Ввод данных в поле: USERNAME
+2024-11-03 08:28:14 INFO  PageRegistrationUser: Ввод данных в поле: EMAIL
+2024-11-03 08:28:14 INFO  PageRegistrationUser: Ввод данных в поле: PASSWORD
+2024-11-03 08:28:14 INFO  PageRegistrationUser: Ввод данных в поле: CONFIRM_PASSWORD
+2024-11-03 08:28:14 INFO  PageRegistrationUser: Ввод даты рождения: 1990-05-30
+2024-11-03 08:28:14 INFO  PageRegistrationUser: Выбор уровня языка: Средний
+2024-11-03 08:29:50 INFO  PageRegistrationUser: Переход по URL
+2024-11-03 08:29:50 INFO  PageRegistrationUser: Ввод данных в поле: USERNAME
+2024-11-03 08:29:50 INFO  PageRegistrationUser: Ввод данных в поле: EMAIL
+2024-11-03 08:29:51 INFO  PageRegistrationUser: Ввод данных в поле: PASSWORD
+2024-11-03 08:29:51 INFO  PageRegistrationUser: Ввод данных в поле: CONFIRM_PASSWORD
+2024-11-03 08:29:51 INFO  PageRegistrationUser: Ввод даты рождения: 1990-05-30
+2024-11-03 08:29:51 INFO  PageRegistrationUser: Выбор уровня языка: Средний
+2024-11-03 15:22:39 INFO  PageRegistrationUser: Переход по URL
+2024-11-03 15:22:40 INFO  PageRegistrationUser: Ввод данных в поле: USERNAME
+2024-11-03 15:22:40 INFO  PageRegistrationUser: Ввод данных в поле: EMAIL
+2024-11-03 15:22:40 INFO  PageRegistrationUser: Ввод данных в поле: PASSWORD
+2024-11-03 15:22:40 INFO  PageRegistrationUser: Ввод данных в поле: CONFIRM_PASSWORD
+2024-11-03 15:22:40 INFO  PageRegistrationUser: Ввод даты рождения: 1990-05-30
+2024-11-03 15:22:40 INFO  PageRegistrationUser: Выбор уровня языка: Средний
+2024-11-03 15:25:04 INFO  PageRegistrationUser: Переход по URL
+2024-11-03 15:25:04 INFO  PageRegistrationUser: Ввод данных в поле: USERNAME
+2024-11-03 15:25:04 INFO  PageRegistrationUser: Ввод данных в поле: EMAIL
+2024-11-03 15:25:04 INFO  PageRegistrationUser: Ввод данных в поле: PASSWORD
+2024-11-03 15:25:04 INFO  PageRegistrationUser: Ввод данных в поле: CONFIRM_PASSWORD
+2024-11-03 15:25:04 INFO  PageRegistrationUser: Ввод даты рождения: 1990-05-30
+2024-11-03 15:25:04 INFO  PageRegistrationUser: Выбор уровня языка: Средний
+2024-11-03 15:25:43 INFO  PageRegistrationUser: Переход по URL
+2024-11-03 15:25:44 INFO  PageRegistrationUser: Ввод данных в поле: USERNAME
+2024-11-03 15:25:44 INFO  PageRegistrationUser: Ввод данных в поле: EMAIL
+2024-11-03 15:25:44 INFO  PageRegistrationUser: Ввод данных в поле: PASSWORD
+2024-11-03 15:25:44 INFO  PageRegistrationUser: Ввод данных в поле: CONFIRM_PASSWORD
+2024-11-03 15:25:44 INFO  PageRegistrationUser: Ввод даты рождения: 30-05-1990
+2024-11-03 15:25:44 INFO  PageRegistrationUser: Выбор уровня языка: Средний
+2024-11-03 15:26:57 INFO  PageRegistrationUser: Переход по URL
+2024-11-03 15:26:57 INFO  PageRegistrationUser: Ввод данных в поле: USERNAME
+2024-11-03 15:26:57 INFO  PageRegistrationUser: Ввод данных в поле: EMAIL
+2024-11-03 15:26:57 INFO  PageRegistrationUser: Ввод данных в поле: PASSWORD
+2024-11-03 15:26:57 INFO  PageRegistrationUser: Ввод данных в поле: CONFIRM_PASSWORD
+2024-11-03 15:26:57 INFO  PageRegistrationUser: Ввод даты рождения: 30-05-1990
+2024-11-03 15:26:57 INFO  PageRegistrationUser: Выбор уровня языка: средний
+2024-11-03 15:31:19 INFO  PageRegistrationUser: Переход по URL
+2024-11-03 15:31:19 INFO  PageRegistrationUser: Ввод данных в поле: USERNAME
+2024-11-03 15:31:19 INFO  PageRegistrationUser: Ввод данных в поле: EMAIL
+2024-11-03 15:31:19 INFO  PageRegistrationUser: Ввод данных в поле: PASSWORD
+2024-11-03 15:31:19 INFO  PageRegistrationUser: Ввод данных в поле: CONFIRM_PASSWORD
+2024-11-03 15:31:19 INFO  PageRegistrationUser: Ввод имени/email/password/confirm password
+2024-11-03 15:31:19 INFO  PageRegistrationUser: Ввод даты рождения: 30-05-1990
+2024-11-03 15:31:19 INFO  PageRegistrationUser: Выбор уровня языка: средний
+2024-11-03 15:34:45 INFO  PageRegistrationUser: Переход по URL
+2024-11-03 15:34:45 INFO  PageRegistrationUser: Ввод данных в поле: USERNAME
+2024-11-03 15:34:45 INFO  PageRegistrationUser: Ввод данных в поле: EMAIL
+2024-11-03 15:34:45 INFO  PageRegistrationUser: Ввод данных в поле: PASSWORD
+2024-11-03 15:34:45 INFO  PageRegistrationUser: Ввод данных в поле: CONFIRM_PASSWORD
+2024-11-03 15:34:45 INFO  PageRegistrationUser: Ввод даты рождения: 30-05-1990
+2024-11-03 15:34:45 INFO  PageRegistrationUser: Выбор уровня языка: средний
+2024-11-03 15:38:47 INFO  PageRegistrationUser: Переход по URL
+2024-11-03 15:38:47 INFO  PageRegistrationUser: Ввод данных в поле: USERNAME
+2024-11-03 15:38:47 INFO  PageRegistrationUser: Ввод данных в поле: EMAIL
+2024-11-03 15:38:47 INFO  PageRegistrationUser: Ввод данных в поле: PASSWORD
+2024-11-03 15:38:47 INFO  PageRegistrationUser: Ввод данных в поле: CONFIRM_PASSWORD
+2024-11-03 15:38:47 INFO  PageRegistrationUser: Ввод даты рождения: 1990-05-30
+2024-11-03 15:38:47 INFO  PageRegistrationUser: Выбор уровня языка: Средний
+2024-11-03 15:38:47 INFO  PageRegistrationUser: Клик по кнопке 'Зарегистрироваться'
+2024-11-03 15:39:32 INFO  PageRegistrationUser: Переход по URL
+2024-11-03 15:39:32 INFO  PageRegistrationUser: Ввод данных в поле: USERNAME
+2024-11-03 15:39:32 INFO  PageRegistrationUser: Ввод данных в поле: EMAIL
+2024-11-03 15:39:32 INFO  PageRegistrationUser: Ввод данных в поле: PASSWORD
+2024-11-03 15:39:32 INFO  PageRegistrationUser: Ввод данных в поле: CONFIRM_PASSWORD
+2024-11-03 15:39:33 INFO  PageRegistrationUser: Ввод даты рождения: 30-05-1990
+2024-11-03 15:39:33 INFO  PageRegistrationUser: Выбор уровня языка: Средний
+2024-11-03 15:39:33 INFO  PageRegistrationUser: Клик по кнопке 'Зарегистрироваться'
+2024-11-03 15:48:29 INFO  PageRegistrationUser: Переход по URL
+2024-11-03 15:48:29 INFO  PageRegistrationUser: Ввод данных в поле: USERNAME
+2024-11-03 15:48:29 INFO  PageRegistrationUser: Ввод данных в поле: EMAIL
+2024-11-03 15:48:29 INFO  PageRegistrationUser: Ввод данных в поле: PASSWORD
+2024-11-03 15:48:29 INFO  PageRegistrationUser: Ввод данных в поле: CONFIRM_PASSWORD
+2024-11-03 15:48:29 INFO  PageRegistrationUser: Ввод даты рождения: 30-05-1990
+2024-11-03 15:48:29 INFO  PageRegistrationUser: Выбор уровня языка: Средний
+2024-11-03 15:48:29 INFO  PageRegistrationUser: Клик по кнопке 'Зарегистрироваться'
+2024-11-03 16:02:28 INFO  PageRegistrationUser: Переход по URL
+2024-11-03 16:02:28 INFO  PageRegistrationUser: Ввод данных в поле: USERNAME
+2024-11-03 16:02:28 INFO  PageRegistrationUser: Ввод данных в поле: EMAIL
+2024-11-03 16:02:28 INFO  PageRegistrationUser: Ввод данных в поле: PASSWORD
+2024-11-03 16:02:28 INFO  PageRegistrationUser: Ввод данных в поле: CONFIRM_PASSWORD
+2024-11-03 16:02:28 INFO  PageRegistrationUser: Ввод даты рождения: 30-05-1990
+2024-11-03 16:02:28 INFO  PageRegistrationUser: Выбор уровня языка: Средний
+2024-11-03 16:02:28 INFO  PageRegistrationUser: Клик по кнопке 'Зарегистрироваться'
+2024-11-03 16:16:45 INFO  PageRegistrationUser: Переход по URL
+2024-11-03 16:16:45 INFO  PageRegistrationUser: Ввод данных в поле: USERNAME
+2024-11-03 16:16:45 INFO  PageRegistrationUser: Ввод данных в поле: EMAIL
+2024-11-03 16:16:45 INFO  PageRegistrationUser: Ввод данных в поле: PASSWORD
+2024-11-03 16:16:45 INFO  PageRegistrationUser: Ввод данных в поле: CONFIRM_PASSWORD
+2024-11-03 16:16:45 INFO  PageRegistrationUser: Ввод даты рождения: 31-05-1990
+2024-11-03 16:16:45 INFO  PageRegistrationUser: Выбор уровня языка: Средний
+2024-11-03 16:16:45 INFO  PageRegistrationUser: Клик по кнопке 'Зарегистрироваться'
+2024-11-03 16:16:58 INFO  PageRegistrationUser: Переход по URL
+2024-11-03 16:16:59 INFO  PageRegistrationUser: Ввод данных в поле: USERNAME
+2024-11-03 16:16:59 INFO  PageRegistrationUser: Ввод данных в поле: EMAIL
+2024-11-03 16:16:59 INFO  PageRegistrationUser: Ввод данных в поле: PASSWORD
+2024-11-03 16:16:59 INFO  PageRegistrationUser: Ввод данных в поле: CONFIRM_PASSWORD
+2024-11-03 16:16:59 INFO  PageRegistrationUser: Ввод даты рождения: 30-05-1990
+2024-11-03 16:16:59 INFO  PageRegistrationUser: Выбор уровня языка: Средний
+2024-11-03 16:16:59 INFO  PageRegistrationUser: Клик по кнопке 'Зарегистрироваться'
+2024-11-03 16:18:02 INFO  PageRegistrationUser: Переход по URL
+2024-11-03 16:18:02 INFO  PageRegistrationUser: Ввод данных в поле: USERNAME
+2024-11-03 16:18:02 INFO  PageRegistrationUser: Ввод данных в поле: EMAIL
+2024-11-03 16:18:02 INFO  PageRegistrationUser: Ввод данных в поле: PASSWORD
+2024-11-03 16:18:02 INFO  PageRegistrationUser: Ввод данных в поле: CONFIRM_PASSWORD
+2024-11-03 16:18:02 INFO  PageRegistrationUser: Ввод даты рождения:30-05-1990
+2024-11-03 16:18:02 INFO  PageRegistrationUser: Выбор уровня языка: Средний
+2024-11-03 16:18:02 INFO  PageRegistrationUser: Клик по кнопке 'Зарегистрироваться'
+2024-11-03 16:20:31 INFO  PageRegistrationUser: Переход по URL
+2024-11-03 16:20:31 INFO  PageRegistrationUser: Ввод данных в поле: USERNAME
+2024-11-03 16:20:31 INFO  PageRegistrationUser: Ввод данных в поле: EMAIL
+2024-11-03 16:20:31 INFO  PageRegistrationUser: Ввод данных в поле: PASSWORD
+2024-11-03 16:20:31 INFO  PageRegistrationUser: Ввод данных в поле: CONFIRM_PASSWORD
+2024-11-03 16:20:31 INFO  PageRegistrationUser: Ввод даты рождения:30-05-1991
+2024-11-03 16:20:31 INFO  PageRegistrationUser: Выбор уровня языка: Средний
+2024-11-03 16:20:31 INFO  PageRegistrationUser: Клик по кнопке 'Зарегистрироваться'
+2024-11-03 16:22:34 INFO  PageRegistrationUser: Переход по URL
+2024-11-03 16:22:35 INFO  PageRegistrationUser: Ввод данных в поле:USERNAME
+2024-11-03 16:22:35 INFO  PageRegistrationUser: Ввод данных в поле:EMAIL
+2024-11-03 16:22:35 INFO  PageRegistrationUser: Ввод данных в поле:PASSWORD
+2024-11-03 16:22:35 INFO  PageRegistrationUser: Ввод данных в поле:CONFIRM_PASSWORD
+2024-11-03 16:22:35 INFO  PageRegistrationUser: Ввод даты рождения-30-05-1990
+2024-11-03 16:22:35 INFO  PageRegistrationUser: Выбор уровня языка-Средний
+2024-11-03 16:22:35 INFO  PageRegistrationUser: Клик по кнопке 'Зарегистрироваться'

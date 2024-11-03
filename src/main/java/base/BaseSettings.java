@@ -22,7 +22,7 @@ public abstract class BaseSettings {
 
     @BeforeEach
     public void setUp() {
-        driver = factory.createDriver("firefox", BrowserMode.FULLSCREEN);   //настройки браузере и режима
+        driver = factory.createDriver("chrome", BrowserMode.FULLSCREEN);   //настройки браузере и режима
         driver.manage().timeouts().implicitlyWait(IMPLICIT_WAIT_TIME, TimeUnit.SECONDS); //время ожидания в сек (20)
     }
 

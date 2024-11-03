@@ -11,6 +11,7 @@ public class PageRegistrationUser {
     private WebDriver driver;
     private String username = System.getProperty("username");
     private String password = System.getProperty("password");
+    private String confirmPassword = password;
     private String email = System.getProperty("email");
     private String url = System.getProperty("base.url");
     private static final Logger logger = LogManager.getLogger(PageRegistrationUser.class);
@@ -22,7 +23,6 @@ public class PageRegistrationUser {
     public PageRegistrationUser(WebDriver driver) {
         this.driver = driver;
     }
-
     public PageRegistrationUser openRegistrationPage() {
         logger.info("Переход по URL");
         driver.get(url);
@@ -37,7 +37,11 @@ public class PageRegistrationUser {
         inputField(UserField.USERNAME, username);
         inputField(UserField.EMAIL, email);
         inputField(UserField.PASSWORD, password);
-        inputField(UserField.CONFIRM_PASSWORD, password);
+        if (!password.equals(confirmPassword)) {
+            logger.error("Пароли не совпадают");
+            throw new IllegalArgumentException("Пароли не совпадают");
+        }
+        inputField(UserField.CONFIRM_PASSWORD, confirmPassword);
         return this;
     }
     public PageRegistrationUser inputDateOfBirth(String date) {

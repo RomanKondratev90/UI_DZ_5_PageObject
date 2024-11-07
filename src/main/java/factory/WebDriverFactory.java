@@ -30,11 +30,4 @@ public class WebDriverFactory {
 
         return driver;
     }
-
-    public void quitDriver() {
-        if (driver != null) {
-            driver.quit();
-            driver = null;
-        }
-    }
 }

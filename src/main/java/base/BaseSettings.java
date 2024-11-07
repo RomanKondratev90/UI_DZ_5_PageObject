@@ -28,7 +28,10 @@ public abstract class BaseSettings {
 
     @AfterEach
     public void quitBrowser() {
-        factory.quitDriver();
+        if (driver != null) {
+            driver.quit();
+            driver = null;
+        }
     }
 }
 

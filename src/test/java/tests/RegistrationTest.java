@@ -6,7 +6,7 @@ import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import pages.PageRegistrationUser;
 
-public class Registration extends BaseSettings {
+public class RegistrationTest extends BaseSettings {
     @Test
     @DisplayName("Проверка регистрации")
     public void verificationRegistration() {

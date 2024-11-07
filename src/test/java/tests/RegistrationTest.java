@@ -1,6 +1,7 @@
 package tests;
 
 import base.BaseSettings;
+import components.LanguageLevel;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
@@ -14,7 +15,7 @@ public class RegistrationTest extends BaseSettings {
                 .openRegistrationPage()
                 .inputUserData()
                 .inputDateOfBirth("30-05-1990")
-                .selectLanguageLevel("Средний")
+                .selectLanguageLevel(LanguageLevel.INTERMEDIATE)
                 .clickRegisterButton();
         Assertions.assertEquals("Имя пользователя: Roman\nЭлектронная почта: Roman@mail.ru\nДата рождения: 1990-05-30\nУровень языка: intermediate", registrationPage.getOutputResult());
     }

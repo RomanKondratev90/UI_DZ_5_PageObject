@@ -1,5 +1,6 @@
 package pages;
 
+import components.LanguageLevel;
 import components.UserField;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -49,10 +50,10 @@ public class PageRegistrationUser {
         driver.findElement(By.id("birthdate")).sendKeys(date);
         return this;
     }
-    public PageRegistrationUser selectLanguageLevel(String level) {
-        logger.info("Выбор уровня языка: " + level);
+    public PageRegistrationUser selectLanguageLevel(LanguageLevel level) {
+        logger.info("Выбор уровня языка: " + level.getDisplayValue());
         Select languageSelect = new Select(driver.findElement(LANGUAGE_LEVEL_SELECT));
-        languageSelect.selectByVisibleText(level);
+        languageSelect.selectByVisibleText(level.getDisplayValue());
         return this;
     }
     public PageRegistrationUser clickRegisterButton() {

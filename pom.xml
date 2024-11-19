@@ -88,12 +88,12 @@
                 <configuration>
                     <systemPropertyVariables>
                         <base.url>${BASE_URL}</base.url>
-                        <username>${USERNAME}</username>
-                        <password>${PASSWORD}</password>
-                        <email>${EMAIL}</email>
-                        <selenium.grid.url>${SELENIUM_GRID_URL}</selenium.grid.url>
-                        <browser.name>${BROWSER_NAME}</browser.name>
-                        <browser.version>${BROWSER_VERSION}</browser.version>
+                        <username>${username}</username>
+                        <password>${password}</password>
+                        <email>${email}</email>
+                        <BROWSER_NAME>${BROWSER_NAME}</BROWSER_NAME>
+                        <BROWSER_MODE>${BROWSER_MODE}</BROWSER_MODE>
+                        <SELENIUM_GRID_URL>${SELENIUM_GRID_URL}</SELENIUM_GRID_URL>
                     </systemPropertyVariables>
                 </configuration>
             </plugin>

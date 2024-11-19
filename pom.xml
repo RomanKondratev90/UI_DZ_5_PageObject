@@ -87,10 +87,13 @@
                 <version>${surefire.version}</version>
                 <configuration>
                     <systemPropertyVariables>
-                        <base.url>https://otus.home.kartushin.su/form.html</base.url>
-                        <username>Roman</username>
-                        <password>12345</password>
-                        <email>Roman@mail.ru</email>
+                        <base.url>${BASE_URL}</base.url>
+                        <username>${USERNAME}</username>
+                        <password>${PASSWORD}</password>
+                        <email>${EMAIL}</email>
+                        <selenium.grid.url>${SELENIUM_GRID_URL}</selenium.grid.url>
+                        <browser.name>${BROWSER_NAME}</browser.name>
+                        <browser.version>${BROWSER_VERSION}</browser.version>
                     </systemPropertyVariables>
                 </configuration>
             </plugin>
